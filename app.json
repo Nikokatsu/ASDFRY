@@ -1,0 +1,11 @@
+{
+  "name": "Proxy",
+  "description": "A simple Proxy.io clone",
+  "scripts": {
+    "build": "gulp build",
+    "start": "gulp run",
+    "watch": "gulp watch",
+    "test": "gulp test"
+  },
+  "repository": "https://github.com/Nikokatsu/ASDFRY"
+}
